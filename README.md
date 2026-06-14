@@ -75,6 +75,4 @@ This application is completely static and can be deployed in seconds to free hos
 
 Design and Development by **Vamsi Raju Oleti**
 
-* **GitHub:** [github.com/Vamsirajoleti](https://www.google.com/search?q=https://github.com/Vamsirajoleti) 
-
 *Built with modern UI/UX principles for the modern professional.*
